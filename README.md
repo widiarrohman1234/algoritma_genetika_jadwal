@@ -72,5 +72,6 @@ Berikut adalah beberapa jadwal yang dihasilkan oleh algoritma genetika:
 
 Proyek ini bebas digunakan untuk keperluan akademik atau eksperimen. Mohon sertakan atribusi jika menggunakan atau memodifikasi algoritma ini.
 
-
+## Kontak
+email: widiarrohman1234@gmail.com
 
